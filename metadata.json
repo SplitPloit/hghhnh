@@ -1,0 +1,5 @@
+{
+  "name": "DeepSeek Builder",
+  "description": "A credit-based AI chat application featuring a tiered economy, subscription models, and Gemini AI integration.",
+  "requestFramePermissions": []
+}
